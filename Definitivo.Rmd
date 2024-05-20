@@ -1,0 +1,140 @@
+---
+title: "Definitivo"
+output:
+  xaringan::moon_reader:
+    css: ["default","overrides.css"]
+    seal: false
+    nature:
+      slideNumberFormat: ''
+date: "2024-05-20"
+---
+
+class: center
+
+# <h1 class="custom-title">El cine en 7 gráficos</h1>
+
+![GIF](https://media1.tenor.com/m/EvLhGoY6_DkAAAAC/twitter-duck.gif)
+
+### Por Javier Muñoz y Jorge de Diego
+
+---
+class: middle,center
+
+# <h1 class="custom-title">RENTABILIDAD</h1>
+
+---
+class: middle,center
+
+<div style="min-height:404px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/bq6vZ/embed.js?v=6" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/bq6vZ/full.png" alt="" /></noscript></div>
+
+---
+class: middle,center
+
+<div style="min-height:453px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/K5gYV/embed.js?v=3" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/K5gYV/full.png" alt="" /></noscript></div>
+
+---
+class: middle,center
+
+<div style="min-height:453px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/kNJc8/embed.js?v=6" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/kNJc8/full.png" alt="" /></noscript></div>
+
+---
+class: middle,center
+
+<div style="min-height:453px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/cCuZO/embed.js?v=7" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/cCuZO/full.png" alt="" /></noscript></div>
+
+---
+class: middle,center
+
+<div style="min-height:453px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/skETN/embed.js?v=11" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/skETN/full.png" alt="" /></noscript></div>
+
+---
+class: middle,center
+
+![image](https://i.gyazo.com/06eea73dedf544f42052b496589e64bb.png)
+---
+class: middle, center
+
+<div style="min-height:445px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/FE9lv/embed.js?v=10" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/FE9lv/full.png" alt="" /></noscript></div>
+
+---
+class: middle, center
+
+<div style="min-height:444px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1pc9V/embed.js?v=6" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/1pc9V/full.png" alt="" /></noscript></div>
+
+---
+class: middle, center
+
+<div style="min-height:444px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/IPwUn/embed.js?v=6" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/IPwUn/full.png" alt="" /></noscript></div>
+
+---
+class: middle, center
+
+# <h1 class="custom-title">PUNTUACIÓN</h1>
+
+---
+class: middle, center
+
+![image](https://i.gyazo.com/b5f2cb4cea3974367da73b4115087d24.png)
+
+---
+class: middle, center
+
+![image](https://i.gyazo.com/7e23bb750781f1296658c471ef45966c.png)
+
+---
+class: middle, center
+
+![image](https://i.gyazo.com/c447e85a685eac622b463f9a9b8ce297.png)
+---
+class: middle, center
+
+<div style="min-height:563px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/B8WKa/embed.js?v=7" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/B8WKa/full.png" alt="" /></noscript></div>
+
+---
+class: middle, center
+
+<div style="min-height:440px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/u8l2A/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/u8l2A/full.png" alt="" /></noscript></div>
+
+---
+class: middle, center
+
+# <h1 class="custom-title">GEOGRAFÍA</h1>
+
+---
+class: middle, center
+
+<iframe title="Se hace mucho más cine en Norte América y Europa" aria-label="Mapa" id="datawrapper-chart-nr8eb" src="https://datawrapper.dwcdn.net/nr8eb/11/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="661" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
+---
+class: middle, center
+
+# <h1 class="custom-title">BONUS TRACK</h1>
+
+---
+class: middle, center
+
+<div style="min-height:596px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/MQtWs/embed.js?v=4" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/MQtWs/full.png" alt="" /></noscript></div>
+
+---
+class: middle, center
+
+![GIF](https://i.gifer.com/1dTb.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
